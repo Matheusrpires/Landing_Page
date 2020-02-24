@@ -1,0 +1,95 @@
+
+{
+  "data": [
+    {
+      "nome": "Perfume Mont Blanc Femme Individuelle EDT",
+      "img" : "../style/img/produtos/mont.jpg",
+      "link" : "https://www.carrefour.com.br/Perfume-Mont-Blanc-Femme-Individuelle-EDT-75ml/p/MP12094029",
+      "quantiade" : "75ml",
+      "vista" : "200,99",
+      "preco" : "230",
+      "centavos" : "16",
+      "parcelas" : "4",
+      "precoParcelas" : "57",
+      "centavosParcelas" : "54",
+      "parcelasJuros" : "10",
+      "precoParcelasJuros" : "25",
+      "centavosParcelasJuros" : "99"
+    },
+    {
+      "nome": "Perfume Pour Homme Masculino Eau de Toilette",
+      "img" : "../style/img/produtos/azzaro.jpg",
+      "link" : "https://www.carrefour.com.br/Perfume-Pour-Homme-Masculino-Eau-de-Toilette-200ml-Azzaro/p/MP08707614",
+      "quantiade" : "200ml",
+      "vista" : "220,99",
+      "preco" : "257",
+      "centavos" : "73",
+      "parcelas" : "5",
+      "precoParcelas" : "51",
+      "centavosParcelas" : "55",
+      "parcelasJuros" : "10",
+      "precoParcelasJuros" : "28",
+      "centavosParcelasJuros" : "99"
+    },
+    {
+      "nome": "Perfume Masculino Pegasus (Unisex) Parfums de Marly",
+      "img" : "../style/img/produtos/marly.jpg",
+      "link" : "https://www.carrefour.com.br/Perfume-Masculino-Pegasus-Unisex-Parfums-de-Marly-125-ML-Eau-De/p/MP11865955",
+      "quantiade" : "125ml",
+      "vista" : "1.450,99",
+      "preco" : "1.503",
+      "centavos" : "84",
+      "parcelas" : "10",
+      "precoParcelas" : "150",
+      "centavosParcelas" : "38",
+      "parcelasJuros" : "10",
+      "precoParcelasJuros" : "200",
+      "centavosParcelasJuros" : "54"
+    },
+    {
+      "nome": "Perfume Feminino Ellenisia Penhaligon's",
+      "img" : "../style/img/produtos/ellenisia.jpg",
+      "link" : "https://www.carrefour.com.br/Perfume-Feminino-Ellenisia-Penhaligon-s-50-ML-Eau-De-Parfum/p/MP11865713",
+      "quantiade" : "50ml",
+      "vista" : "580,34",
+      "preco" : "635",
+      "centavos" : "69",
+      "parcelas" : "10",
+      "precoParcelas" : "63",
+      "centavosParcelas" : "57",
+      "parcelasJuros" : "10",
+      "precoParcelasJuros" : "80",
+      "centavosParcelasJuros" : "57"
+    },
+    {
+      "nome": "Perfume Masculino Chanel Allure Homme Sport",
+      "img" : "../style/img/produtos/allure.jpg",
+      "link" : "https://www.carrefour.com.br/Perfume-Masculino-Chanel-Allure-Homme-Sport-150-ML-Cologne/p/MP11855315",
+      "quantiade" : "150ml",
+      "vista" : "1.500",
+      "preco" : "1.921",
+      "centavos" : "92",
+      "parcelas" : "10",
+      "precoParcelas" : "192",
+      "centavosParcelas" : "19",
+      "parcelasJuros" : "10",
+      "precoParcelasJuros" : "200",
+      "centavosParcelasJuros" : "10"
+    },
+    {
+      "nome": "Perfume Montblanc Legend Masculino Eau de Toilette",
+      "img" : "../style/img/produtos/montBlanc.jpg",
+      "link" : "https://www.carrefour.com.br/Perfume-Montblanc-Legend-Masculino-Eau-de-Toilette-100ML-MONT-BLANC/p/MP05156217",
+      "quantiade" : "100ml",
+      "vista" : "200,80",
+      "preco" : "223",
+      "centavos" : "85",
+      "parcelas" : "4",
+      "precoParcelas" : "55",
+      "centavosParcelas" : "96",
+      "parcelasJuros" : "8",
+      "precoParcelasJuros" : "70",
+      "centavosParcelasJuros" : "89"
+    }
+  ]
+}
